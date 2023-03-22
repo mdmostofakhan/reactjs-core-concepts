@@ -38,10 +38,18 @@
 }
 
 .container{
-  color: red;
-  background-color: aqua;
+  /* color: red; */
+  background-color: peachpuff;
   padding: 20px;
+  margin: 10px;
+  border: 2px solid red;
   border-radius: 20px;
-  
+  }
 
-}
+  .person{
+    background-color: aqua;
+    border: 3px solid rebeccapurple;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+  }
